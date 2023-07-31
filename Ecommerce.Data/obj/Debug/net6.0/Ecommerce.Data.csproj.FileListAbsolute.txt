@@ -1,0 +1,17 @@
+C:\Users\bsahe\source\repos\DipoleEcommerce\Ecommerce.Data\obj\Debug\net6.0\Ecommerce.Data.csproj.AssemblyReference.cache
+C:\Users\bsahe\source\repos\DipoleEcommerce\Ecommerce.Data\obj\Debug\net6.0\Ecommerce.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bsahe\source\repos\DipoleEcommerce\Ecommerce.Data\obj\Debug\net6.0\Ecommerce.Data.AssemblyInfoInputs.cache
+C:\Users\bsahe\source\repos\DipoleEcommerce\Ecommerce.Data\obj\Debug\net6.0\Ecommerce.Data.AssemblyInfo.cs
+C:\Users\bsahe\source\repos\DipoleEcommerce\Ecommerce.Data\obj\Debug\net6.0\Ecommerce.Data.csproj.CoreCompileInputs.cache
+C:\Users\bsahe\source\repos\DipoleEcommerce\Ecommerce.Data\bin\Debug\net6.0\Ecommerce.Data.deps.json
+C:\Users\bsahe\source\repos\DipoleEcommerce\Ecommerce.Data\bin\Debug\net6.0\Ecommerce.Data.runtimeconfig.json
+C:\Users\bsahe\source\repos\DipoleEcommerce\Ecommerce.Data\bin\Debug\net6.0\Ecommerce.Data.dll
+C:\Users\bsahe\source\repos\DipoleEcommerce\Ecommerce.Data\bin\Debug\net6.0\Ecommerce.Data.pdb
+C:\Users\bsahe\source\repos\DipoleEcommerce\Ecommerce.Data\bin\Debug\net6.0\Ecommerce.Model.dll
+C:\Users\bsahe\source\repos\DipoleEcommerce\Ecommerce.Data\bin\Debug\net6.0\Ecommerce.Model.pdb
+C:\Users\bsahe\source\repos\DipoleEcommerce\Ecommerce.Data\obj\Debug\net6.0\Ecommerce.Data.csproj.CopyComplete
+C:\Users\bsahe\source\repos\DipoleEcommerce\Ecommerce.Data\obj\Debug\net6.0\Ecommerce.Data.dll
+C:\Users\bsahe\source\repos\DipoleEcommerce\Ecommerce.Data\obj\Debug\net6.0\refint\Ecommerce.Data.dll
+C:\Users\bsahe\source\repos\DipoleEcommerce\Ecommerce.Data\obj\Debug\net6.0\Ecommerce.Data.pdb
+C:\Users\bsahe\source\repos\DipoleEcommerce\Ecommerce.Data\obj\Debug\net6.0\Ecommerce.Data.genruntimeconfig.cache
+C:\Users\bsahe\source\repos\DipoleEcommerce\Ecommerce.Data\obj\Debug\net6.0\ref\Ecommerce.Data.dll

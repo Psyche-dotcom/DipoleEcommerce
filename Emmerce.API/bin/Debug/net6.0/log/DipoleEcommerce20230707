@@ -1,0 +1,8 @@
+2023-07-07 15:04:00.823 +01:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2023-07-07 15:04:02.197 +01:00 [DBG] The index {'UserId'} was not created on entity type 'IdentityUserRole<string>' as the properties are already covered by the index {'UserId', 'RoleId'}.
+2023-07-07 15:04:02.200 +01:00 [DBG] The index {'UserId'} was not created on entity type 'IdentityUserToken<string>' as the properties are already covered by the index {'UserId', 'LoginProvider', 'Name'}.
+2023-07-07 15:04:02.524 +01:00 [DBG] The property 'ProductReview.ProductId' was created in shadow state because there are no eligible CLR members with a matching name.
+2023-07-07 15:04:03.041 +01:00 [INF] Entity Framework Core 6.0.0 initialized 'DipoleEcommerceContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:6.0.0' with options: None
+2023-07-07 15:04:03.190 +01:00 [DBG] The index {'UserId'} was not created on entity type 'IdentityUserRole<string>' as the properties are already covered by the index {'UserId', 'RoleId'}.
+2023-07-07 15:04:03.190 +01:00 [DBG] The index {'UserId'} was not created on entity type 'IdentityUserToken<string>' as the properties are already covered by the index {'UserId', 'LoginProvider', 'Name'}.
+2023-07-07 15:04:03.209 +01:00 [DBG] The property 'ProductReview.ProductId' was created in shadow state because there are no eligible CLR members with a matching name.
